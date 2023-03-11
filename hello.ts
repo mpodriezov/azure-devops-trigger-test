@@ -1,4 +1,3 @@
-interface Hello {
+interface File {
     name: string
-    lastname: string
 }
