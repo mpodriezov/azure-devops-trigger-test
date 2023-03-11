@@ -1,2 +1,3 @@
-interface A {
+interface ITest {
+  test: date
 }
